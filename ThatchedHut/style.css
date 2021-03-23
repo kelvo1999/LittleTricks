@@ -31,5 +31,29 @@ body{
 }
 
 .door{
-    
+    width: 50px;
+    height: 80px;
+    position: absolute;
+    background-color: #b52a2d;
+    left: 46%;
+    top: 43%;
+}
+
+.handle{
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    background-color: white;
+    top: 47%;
+    position: absolute;
+    left: 46%;
+}
+
+.window{
+    width: 50px;
+    height: 50px;
+    position: absolute;
+    background-color: green;
+    left: 55%;
+    top: 35%;
 }
