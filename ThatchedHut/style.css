@@ -1,5 +1,35 @@
 body{
     background-color: #00ffff;
-    margin: 0;
-    padding: 0;
+}
+
+.roof{
+    width: 350px;
+    height: 250px;
+    position: absolute;
+    background-color: #00ffff;
+    left: 40%;
+    top: 32%;
+}
+
+.wall{
+    width: 200px;
+    height: 150px;
+    position: absolute;
+    background-color: #000;
+    left: 45%;
+    top: 32%;
+}
+
+.roof1{
+    width: 200px;
+    height: 200px;
+    position: absolute;
+    background-color: #b52a2d;
+    left: 45%;
+    top: 20%;
+    transform: rotate(45deg);
+}
+
+.door{
+    
 }
